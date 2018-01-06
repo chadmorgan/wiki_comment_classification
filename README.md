@@ -1,1 +1,1 @@
-# Toxic Wikipedia comments classification (Kaggle competition)
+Wikipedia comments classification (for Kaggle competition)

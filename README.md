@@ -1,2 +1,1 @@
-# wiki_comment_classification
-Kaggle wikipedia toxic comments competition
+# Toxic Wikipedia comments classification (Kaggle competition)
